@@ -1,0 +1,10 @@
+{
+  "disclaimer":"Fictional firms, submissions, records, and scores. This demo is not accounting advice, a credential, or a real firm ranking.",
+  "caseName":"Juniper Supply Co. — October close",
+  "firms":[
+    {"id":"northstar","name":"Northstar Ledger","accuracy":94,"response":82,"review":90,"privacy":86,"flags":1,"note":"Strong categorization and reviewer sign-off; one unsupported vendor inference."},
+    {"id":"clearbooks","name":"ClearBooks AI","accuracy":88,"response":95,"review":72,"privacy":92,"flags":2,"note":"Fast, clear client answers; human-review evidence was incomplete."},
+    {"id":"humancoa","name":"Human & Co.","accuracy":91,"response":76,"review":98,"privacy":80,"flags":0,"note":"Best reviewer trail; slower response and less specific data-retention disclosure."}
+  ],
+  "weights":{"accuracy":40,"response":20,"review":25,"privacy":15}
+}
