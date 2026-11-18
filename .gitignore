@@ -8,5 +8,6 @@ __pycache__/
 .pytest_cache/
 *.pyc
 .DS_Store
+*.tsbuildinfo
 .env*
 !.env.example
